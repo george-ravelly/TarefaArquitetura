@@ -1,0 +1,24 @@
+{
+  "name": "TarefaArquitetura",
+  "version": "1.0.0",
+  "description": "",
+  "main": "FileSaver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/george-ravelly/TarefaArquitetura.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/george-ravelly/TarefaArquitetura/issues"
+  },
+  "homepage": "https://github.com/george-ravelly/TarefaArquitetura#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "jspdf": "^2.3.1"
+  }
+}
